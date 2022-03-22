@@ -9,7 +9,7 @@
   
   inputs.src-phoon-master.flake = false;
   inputs.src-phoon-master.owner = "ducdetronquito";
-  inputs.src-phoon-master.ref   = "refs/heads/master";
+  inputs.src-phoon-master.ref   = "master";
   inputs.src-phoon-master.repo  = "phoon";
   inputs.src-phoon-master.type  = "github";
   
