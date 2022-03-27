@@ -11,6 +11,7 @@
   inputs.src-phoon-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-phoon-v0_1_0.owner = "ducdetronquito";
   inputs.src-phoon-v0_1_0.repo  = "phoon";
+  inputs.src-phoon-v0_1_0.dir   = "";
   inputs.src-phoon-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
