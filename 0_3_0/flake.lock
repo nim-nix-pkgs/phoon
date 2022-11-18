@@ -204,22 +204,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-phoon-master": "src-phoon-master"
+        "src-phoon-0_3_0": "src-phoon-0_3_0"
       }
     },
-    "src-phoon-master": {
+    "src-phoon-0_3_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1668284706,
-        "narHash": "sha256-6vYThdH4nVNrdVhRZKZPzI/MIvEWfVXtWiR2izd3TRk=",
+        "lastModified": 1667825682,
+        "narHash": "sha256-+i1u0rJI8o8Y7YQmb3IlA3fujgRtruyy6SwG+bWuEC8=",
         "owner": "ducdetronquito",
         "repo": "phoon",
-        "rev": "253fdc7989853d9008d8b9a7baf94645262d1b6d",
+        "rev": "a91f8d2f83625f9f81ce66414f9455cbe7213dd1",
         "type": "github"
       },
       "original": {
         "owner": "ducdetronquito",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.3.0",
         "repo": "phoon",
         "type": "github"
       }

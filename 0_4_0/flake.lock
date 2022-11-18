@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-phoon-master": "src-phoon-master"
+        "src-phoon-0_4_0": "src-phoon-0_4_0"
       }
     },
-    "src-phoon-master": {
+    "src-phoon-0_4_0": {
       "flake": false,
       "locked": {
         "lastModified": 1668284706,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "ducdetronquito",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.4.0",
         "repo": "phoon",
         "type": "github"
       }
